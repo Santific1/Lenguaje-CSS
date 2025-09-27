@@ -1,0 +1,118 @@
+header{
+    padding: 20px;
+}
+
+#logo{
+    display: flex;
+    align-items: center;
+    width: 100px;
+    height: auto;
+}
+
+#menu{
+    display:flex;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-right: 100px;
+    margin-left: 1300px;
+    color: black;
+    font-style: normal;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+#separador{
+    border-top: 1px solid;
+    margin-top: 20px;
+}
+
+
+#uno{
+    position: absolute;
+top:30%;
+left: 30%;
+width: auto;
+transform: translate(-50%, -50%);
+text-align: center;
+color: beige;
+font-style: oblique;
+}
+
+#dos{
+    position: absolute;
+top:35%;
+left: 30%;
+width: auto;
+transform: translate(-50%, -50%);
+text-align: center;
+color: beige;
+font-style: oblique;
+}
+
+#tres{
+    position: absolute;
+top:40%;
+left: 40%;
+width: auto;
+transform: translate(-50%, -50%);
+text-align: center;
+color: beige;
+font-style: oblique;
+}
+
+#cuatro{
+    position: absolute;
+top:45%;
+left: 40%;
+width: auto;
+transform: translate(-50%, -50%);
+text-align: center;
+color: beige;
+font-style: oblique;
+}
+
+#cinco{
+    position: absolute;
+top:55%;
+left: 40%;
+width: auto;
+transform: translate(-50%, -50%);
+text-align: center;
+color: beige;
+font-style: oblique;
+}
+
+
+#ciudad{
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 2000px;
+    height: auto;
+    object-fit: cover;
+}
+
+#letras{
+    position: absolute;
+top:250px;
+left: 15%;
+width: auto;
+height: 100px;
+    object-fit: cover;
+}
+
+
+footer{
+    text-align: center;
+        color: rgb(117, 117, 1);
+        font-style: normal;
+}
+
+#texto1{
+    color: rgb(152, 152, 152);
+    font-style: normal;
+}
+
+
